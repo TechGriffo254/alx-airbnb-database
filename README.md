@@ -25,16 +25,16 @@ alx-airbnb-database/
 
 ## Tasks Completed
 
-### ✅ Task 0: Define Entities and Relationships in ER Diagram
+###  Task 0: Define Entities and Relationships in ER Diagram
 - **File:** `ERD/requirements.md`
 - **Description:** Comprehensive documentation of all entities (User, Property, Booking, Payment, Review, etc.), their attributes, and relationships
 - **Next Step:** Create visual ERD using Draw.io and export as `ERD/diagram.png` and `ERD/diagram.drawio`
 
-### ✅ Task 1: Normalize Your Database Design
+###  Task 1: Normalize Your Database Design
 - **File:** `normalization.md`
 - **Description:** Detailed explanation of normalization steps to achieve Third Normal Form (3NF), including rationale for design decisions
 
-### ✅ Task 2: Design Database Schema (DDL)
+###  Task 2: Design Database Schema (DDL)
 - **Directory:** `database-script-0x01/`
 - **Files:** `schema.sql`, `README.md`
 - **Description:** Complete PostgreSQL DDL with:
@@ -44,7 +44,7 @@ alx-airbnb-database/
   - Performance indexes on commonly queried columns
   - Triggers for automatic `updated_at` timestamp management
 
-### ✅ Task 3: Seed the Database with Sample Data
+###  Task 3: Seed the Database with Sample Data
 - **Directory:** `database-script-0x02/`
 - **Files:** `seed.sql`, `README.md`
 - **Description:** Realistic sample data including:
